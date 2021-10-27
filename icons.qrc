@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>greenPressed.png</file>
+    <file>greenUnPressed.png</file>
+    <file>redPressed.png</file>
+    <file>redUnPressed.png</file>
+    <file>whitePressed.png</file>
+    <file>whiteUnpressed.png</file>
+    <file>mainLogo.png</file>
+  </qresource>
+</RCC>
